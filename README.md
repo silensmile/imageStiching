@@ -5,4 +5,6 @@
 *by* **陈霁阳，王云帆**
 <br />
 <br />
+**代码由Git设置core.autocrlf true上传，建议直接clone。若下载zip，请注意更改文档换行符**
+<br />
 *2016年6月*
